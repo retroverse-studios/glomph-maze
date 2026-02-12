@@ -1,5 +1,9 @@
 # Glomph Maze
 
+<!-- BADGES:START -->
+[![c](https://img.shields.io/badge/-c-blue?style=flat-square)](https://github.com/topics/c) [![cli-game](https://img.shields.io/badge/-cli-game-blue?style=flat-square)](https://github.com/topics/cli-game) [![cmake](https://img.shields.io/badge/-cmake-blue?style=flat-square)](https://github.com/topics/cmake) [![console-game](https://img.shields.io/badge/-console-game-blue?style=flat-square)](https://github.com/topics/console-game) [![cross-platform](https://img.shields.io/badge/-cross-platform-blue?style=flat-square)](https://github.com/topics/cross-platform) [![maze-game](https://img.shields.io/badge/-maze-game-blue?style=flat-square)](https://github.com/topics/maze-game) [![ncurses](https://img.shields.io/badge/-ncurses-blue?style=flat-square)](https://github.com/topics/ncurses) [![pacman](https://img.shields.io/badge/-pacman-blue?style=flat-square)](https://github.com/topics/pacman) [![retro-gaming](https://img.shields.io/badge/-retro-gaming-blue?style=flat-square)](https://github.com/topics/retro-gaming) [![terminal](https://img.shields.io/badge/-terminal-blue?style=flat-square)](https://github.com/topics/terminal)
+<!-- BADGES:END -->
+
 ![Glomph Mascot](images/glomph-mascot.png)
 
 A revived and renamed fork of [MyMan](http://myman.sourceforge.net/), an unofficial text-based clone of the classic Pac-Man game. Designed for terminal and console environments, with no GUI support. Integrated into a collection of minimal text-based projects.
